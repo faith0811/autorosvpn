@@ -21,4 +21,4 @@ for file in *.txt; do
 done
 
 # Generate backward Compatibility address-list.rsc
-make_ros chnroutes.txt novpn yes > address-list.rsc
+make_ros chnroutes.txt cnlist no > address-list.rsc
