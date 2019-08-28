@@ -7,7 +7,7 @@ China Route Tables
 Router OS only import script:
 
 ```shell
-/tool fetch http-method=get url=https://raw.githubusercontent.com/zealic/autorosvpn/master/address-list.rsc
+/tool fetch http-method=get url=https://raw.githubusercontent.com/faith0811/autorosvpn/master/address-list.rsc
 :local addrFile
 :local fileSize
 /file
